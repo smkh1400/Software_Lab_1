@@ -5,3 +5,21 @@ body {
     justify-content: center;
     align-items: center;
   }
+
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5c89b8;
+    color: rgb(145, 230, 112);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    color: rgb(202, 231, 20);
+    background-color: #bd1298;
+  }
+  
