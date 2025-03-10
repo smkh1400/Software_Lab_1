@@ -87,7 +87,7 @@
 
 ![alt text](image.png)
 
-9- در نهایت پس از اتمام پیاده سازی در برنچ `develop`، به کمک `pull request` این برنچ را با برنچ `main` ادغام می کنیم و به کمک فایل پیکربندی، می توان صفحات را در آدرس `https://github.com/smkh1400/Software_Lab_1/index.html` مشاهده کرد. 
+9- در نهایت پس از اتمام پیاده سازی در برنچ `develop`، به کمک `pull request` این برنچ را با برنچ `main` ادغام می کنیم و به کمک فایل پیکربندی، می توان صفحات را در آدرس `https://smkh1400.github.io/Software_Lab_1/index.html` مشاهده کرد. 
 
 پاسخ سوالات:
 
